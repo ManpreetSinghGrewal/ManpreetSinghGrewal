@@ -1,79 +1,113 @@
 <div align="center">
 
-# 🚀 Manpreet Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ea5e9,50:6366f1,100:8b5cf6&text=Manpreet%20Singh&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20BE%20CSE%20Student&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Experiences;React+%7C+JavaScript+%7C+MongoDB;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hello+World!+I'm+Manpreet+Singh;Full+Stack+Developer;3rd+Year+BE+CSE+Student+at+Chitkara+University;React+%7C+JavaScript+%7C+MongoDB;Building+Products+That+Solve+Real+Problems;Always+Learning+%26+Always+Building" />
 
 <p>
-  <a href="https://github.com/ManpreetSinghGrewal">
-    <img src="https://img.shields.io/github/followers/ManpreetSinghGrewal?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/manpreet-singh-480363317">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=ManpreetSinghGrewal&label=Profile+Views&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/ManpreetSinghGrewal?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/ManpreetSinghGrewal?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## ⚡ About Me
+# 💫 About Me
 
-```yaml
-Name: Manpreet Singh
-Role: Full Stack Developer
-Location: India 🇮🇳
+```javascript
+const manpreet = {
+  education: "BE CSE (3rd Year)",
+  university: "Chitkara University, Rajpura",
+  role: "Full Stack Developer",
+  location: "Punjab, India 🇮🇳",
 
-Passionate About:
-  - Building scalable web applications
-  - Creating responsive user interfaces
-  - Learning modern technologies
-  - Solving real-world problems through code
+  frontend: [
+    "React",
+    "JavaScript",
+    "HTML5",
+    "CSS3"
+  ],
 
-Current Focus:
-  - Advanced React Patterns
-  - Backend Architecture
-  - Performance Optimization
-  - Full Stack Development
+  backend: [
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+
+  currentlyLearning: [
+    "Next.js",
+    "System Design",
+    "Docker",
+    "Cloud Technologies"
+  ],
+
+  goal: "Build impactful products and become a top software engineer"
+};
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🚀 Developer Journey
+
+🎓 Third-Year Computer Science Engineering student at **Chitkara University, Rajpura**
+
+💻 Passionate about building modern full-stack web applications
+
+⚡ Love transforming ideas into real-world products
+
+🌱 Continuously learning new technologies and software engineering practices
+
+🎯 Focused on writing clean, scalable, and maintainable code
+
+🤝 Open to internships, collaborations, and open-source contributions
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,git,github,vscode" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## ⚡ Current Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎨 Frontend Development
+### 🔥 Building
 
-* Responsive UI Development
-* React Applications
-* Modern CSS Design
-* Interactive User Experiences
-* Component-Based Architecture
+* Full Stack Applications
+* React Projects
+* Portfolio Projects
+* Open Source Contributions
 
 </td>
 
 <td width="50%">
 
-### ⚙️ Backend Development
+### 📚 Learning
 
-* REST API Integration
-* MongoDB Database Design
-* Authentication Systems
-* Data Management
-* Application Logic
+* Next.js
+* Advanced React
+* System Design
+* DevOps Fundamentals
 
 </td>
 </tr>
@@ -85,26 +119,37 @@ Current Focus:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManpreetSinghGrewal&show_icons=true&theme=transparent&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManpreetSinghGrewal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ManpreetSinghGrewal&theme=transparent&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ManpreetSinghGrewal&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManpreetSinghGrewal&layout=compact&hide_border=true&theme=transparent" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManpreetSinghGrewal&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧠 Developer Philosophy
+## 📈 Contribution Activity
 
-> Build with purpose.
-> Learn continuously.
-> Improve consistently.
-> Deliver quality.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManpreetSinghGrewal&theme=tokyo-night&hide_border=true&radius=16" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ManpreetSinghGrewal&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
@@ -113,12 +158,39 @@ Current Focus:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/manpreet-singh-480363317">
-<img src="https://img.shields.io/badge/LinkedIn-Manpreet%20Singh-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Manpreet%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ManpreetSinghGrewal">
-<img src="https://img.shields.io/badge/GitHub-ManpreetSinghGrewal-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-ManpreetSinghGrewal-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎵 Coding Mindset
+
+<div align="center">
+
+```text
+while(alive){
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
 
 </div>
 
@@ -126,8 +198,8 @@ Current Focus:
 
 <div align="center">
 
-### 🚀 Turning Ideas Into Digital Experiences
+### 🚀 Dream Big. Build Bigger.
 
-<img src="https://komarev.com/ghpvc/?username=ManpreetSinghGrewal&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:6366f1,100:8b5cf6"/>
 
 </div>
